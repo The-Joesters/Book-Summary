@@ -37,8 +37,8 @@ This project provides a Flask-based API for summarizing PDF documents in both En
 1. Clone the Repository
 
    ```bash
-   git clone httpsgithub.comyourusernamepdf-summarization-api.git
-   cd pdf-summarization-api
+   git clone https://github.com/The-Joesters/Book-Summary.git
+   cd Book-Summary
    ```
 
 2. Create a Virtual Environment
