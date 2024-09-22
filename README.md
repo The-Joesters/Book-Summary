@@ -54,8 +54,6 @@ This project provides a Flask-based API for summarizing PDF documents in both En
    pip install -r requirements.txt
    ```
 
-   If `requirements.txt` is not provided, install the dependencies manually
-
    ```bash
    pip install flask sentence-transformers transformers pdfplumber arabic-reshaper python-bidi stanza langdetect torch
    ```
